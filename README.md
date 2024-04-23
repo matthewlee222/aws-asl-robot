@@ -1,3 +1,5 @@
+# American Sign Language (ASL) Translator
+
 On November 30 and December 1st 2022, our team of two A2C Consultants and an Associate Solutions Architect 
 presented an American Sign Language (ASL) translator that uses AWS services at the AWS re:Invent 2022 Conference.
 The ASL Translator harnesses the power of AWS cloud, utilizing technologies including voice-to-text and serverless compute,
