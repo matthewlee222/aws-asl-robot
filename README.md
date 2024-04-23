@@ -17,3 +17,5 @@ The audio input will be saved as a file to an S3 bucket and will trigger an Amaz
 Transcribe API to convert the audio into text, which gets saved to a new S3 bucket. The Python script has connectivity to this
 S3 bucket and triggers the Arduino code while passing the text from the S3 bucket to the Arduino. The Arduino code controls
 the hands movement and the appropriate function gets triggered to move the hand based on the passed in text.
+
+![AWS Diagram](https://github.com/matthewlee222/reinvent-bot-2022/assets/58535185/0b3f0c1a-0616-454b-a9e8-ab7a94229163)
