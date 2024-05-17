@@ -1,6 +1,6 @@
 # ASL Translator Robotic Hand with AWS
 
-On November 30 and December 1st 2022, our team of two A2C Consultants and an Associate Solutions Architect 
+On November 30 and December 1st 2022, our team of two Professional Services Consultants and an Associate Solutions Architect 
 presented an American Sign Language (ASL) translator that uses AWS services at the AWS re:Invent 2022 Conference.
 The ASL Translator harnesses the power of AWS cloud, utilizing technologies including voice-to-text and serverless compute,
 to deliver a seamless user experience. The ASL Translator uses a microphone to intake user speech and translates the audio
