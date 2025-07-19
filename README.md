@@ -1,5 +1,7 @@
 # ASL Translator Robotic Hand with AWS
 
+The ASL Translator Robotic Hand leverages the power of AWS Cloud services—such as voice-to-text and serverless compute—to deliver a seamless and intuitive user experience.
+
 On November 30 and December 1, 2022, our team—comprising two Professional Services Consultants and an Associate Solutions Architect—presented an American Sign Language (ASL) Translator at the AWS re:Invent 2022 Conference. Built using AWS services, the ASL Translator leverages technologies such as voice-to-text and serverless compute to deliver a seamless user experience. It captures spoken input through a microphone and translates it into ASL in real time. A robotic hand then finger-spells the translated words or phrases, helping users—especially beginners—learn how to sign.
 
 With a simple robotic hand and an intuitive AWS-powered interface, users can now visualize ASL finger and hand motions. Those new to ASL can use the translator as an entry point to learn the language and better communicate with the hard-of-hearing community. Meanwhile, experienced users can mimic the robotic hand to practice and refine their fluency.
